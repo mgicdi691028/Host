@@ -50,10 +50,10 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = os.getenv("BOT_TOKEN", "")
+TOKEN = os.getenv("BOT_TOKEN", "8664260241:AAFbgJIEEfp3Yhk2MSVx5l_rHldEFBwVgqI")
 OWNER_ID = int(os.getenv("OWNER_ID", "0"))
 ADMIN_ID = int(os.getenv("ADMIN_ID", str(OWNER_ID)))
-YOUR_USERNAME = os.getenv("YOUR_USERNAME", "@shiyam7444")
+YOUR_USERNAME = os.getenv("YOUR_USERNAME", "@robotXmehedi")
 
 # --- Payment / Hosting Configuration ---
 PAYMENT_INFO_DEFAULT = "Payment instructions are not configured yet. Please contact the admin."
