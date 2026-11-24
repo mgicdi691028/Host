@@ -20,11 +20,11 @@ from urllib.parse import urljoin, urlparse, parse_qs
 # ==========================================
 # Configuration (Token & Owner ID)
 # ==========================================
-TOKEN = "9107434537:AAHH13WRHOut7CrdpT6gkx9xJG9PoS4QiYM"  # Generate a fresh token with @BotFather
+TOKEN = "9064786786:AAH4ukyy_0FYtGJEZCgneIpprOB6D6Doy9k"  # Generate a fresh token with @BotFather
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
-OWNER_ID = 6996098541
+OWNER_ID = 6995426618
 BOT_USERNAME = ""
 DB_FILE = "bot_data.json"
 
