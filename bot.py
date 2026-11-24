@@ -29,7 +29,7 @@ BOT_USERNAME = ""
 DB_FILE = "bot_data.json"
 
 # ZiniPay credentials are supplied through Railway Variables / environment.
-ZINIPAY_API_KEY = os.getenv("ZINIPAY_API_KEY", "").strip()
+ZINIPAY_API_KEY = os.getenv("a459f66f6d60985d34b6d4d7ba563b9bb9e5bcd4500edf79", "").strip()
 ZINIPAY_API_BASE = "https://api.zinipay.com"
 ZINIPAY_TIMEOUT = 25
 
